@@ -4,4 +4,4 @@ A simple PHP framework
 
 
 SKPHP
-│ index.php          入口文件 
+│ index.php 	入口文件 
