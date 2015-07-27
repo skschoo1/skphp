@@ -1,0 +1,120 @@
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 01:57:30
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 01:57:51
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 02:48:42
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 02:50:29
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:31:31
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:33:46
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:33:54
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:34:05
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:35:49
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:35:51
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:36:44
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:36:56
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:37:25
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:38:22
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:38:52
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:39:06
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:39:12
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:39:29
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:42:17
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:42:28
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:42:35
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:42:39
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 04:43:01
+
+错误SQL语句：
+select * from yqp_goods_brand 1
+客户IP:127.0.0.1
+时间 :2015-07-26 09:21:13
+
