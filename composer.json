@@ -9,7 +9,7 @@
             "email": "200641838@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
         "skschool/framework": "dev-master"
