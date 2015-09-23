@@ -24,5 +24,10 @@ cd skphp-2.0
 composer update
 </code></pre>
 
+# Shortcut
+<pre><code>
+composer create-project --prefer-dist skschool/skphp skphp
+</code></pre>
+
 # License
 The Laravel framework is open-sourced software licensed under the <a href="http://opensource.org/licenses/MIT">MIT license</a>
