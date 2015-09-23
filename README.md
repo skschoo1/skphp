@@ -1,11 +1,22 @@
 # The SKPHP Framework Demo.
 <pre><code>
-  _________  __              .__              
- /   _____/ |  | __ ______   |  |__   ______  
- \_____  \  |  |/ / \____ \  |  |  \  \____ \ 
- /   s    \ |  k <  |  |_> > |   h  \ |  |_> >
-/_______  / |__|_ \ | p __/  |___|  / | p __/ 
-        \/       \/ |__|          \/  |__|    
+                                                                                                                          
+   SSSSSSSSSSSSSSS      KKKKKKKKK    KKKKKKK     PPPPPPPPPPPPPPPPP        HHHHHHHHH     HHHHHHHHH     PPPPPPPPPPPPPPPPP   
+ SS:::::::::::::::S     K:::::::K    K:::::K     P::::::::::::::::P       H:::::::H     H:::::::H     P::::::::::::::::P  
+S:::::SSSSSS::::::S     K:::::::K    K:::::K     P::::::PPPPPP:::::P      H:::::::H     H:::::::H     P::::::PPPPPP:::::P 
+S:::::S     SSSSSSS     K:::::::K   K::::::K     PP:::::P     P:::::P     HH::::::H     H::::::HH     PP:::::P     P:::::P
+S:::::S                 KK::::::K  K:::::KKK       P::::P     P:::::P       H:::::H     H:::::H         P::::P     P:::::P
+S:::::S                   K:::::K K:::::K          P::::P     P:::::P       H:::::H     H:::::H         P::::P     P:::::P
+ S::::SSSS                K::::::K:::::K           P::::PPPPPP:::::P        H::::::HHHHH::::::H         P::::PPPPPP:::::P 
+  SS::::::SSSSS           K:::::::::::K            P:::::::::::::PP         H:::::::::::::::::H         P:::::::::::::PP  
+    SSS::::::::SS         K:::::::::::K            P::::PPPPPPPPP           H:::::::::::::::::H         P::::PPPPPPPPP    
+       SSSSSS::::S        K::::::K:::::K           P::::P                   H::::::HHHHH::::::H         P::::P            
+            S:::::S       K:::::K K:::::K          P::::P                   H:::::H     H:::::H         P::::P            
+            S:::::S     KK::::::K  K:::::KKK       P::::P                   H:::::H     H:::::H         P::::P            
+SSSSSSS     S:::::S     K:::::::K   K::::::K     PP::::::PP               HH::::::H     H::::::HH     PP::::::PP          
+S::::::SSSSSS:::::S     K:::::::K    K:::::K     P::::::::P               H:::::::H     H:::::::H     P::::::::P          
+S:::::::::::::::SS      K:::::::K    K:::::K     P::::::::P               H:::::::H     H:::::::H     P::::::::P          
+ SSSSSSSSSSSSSSS        KKKKKKKKK    KKKKKKK     PPPPPPPPPP               HHHHHHHHH     HHHHHHHHH     PPPPPPPPPP     
 </code></pre>
 
 # Install
