@@ -1,5 +1,5 @@
 <?php
 
-echo $name;
+echo $name;  
 
 ?>
